@@ -1,7 +1,9 @@
 # Hero_Idle-Portfolio
 # 1. 게임소개
-![ImageToStl com_merged-document (1)](https://github.com/user-attachments/assets/8f1f233b-a746-44b0-b84c-eaac6eaeff3d)
-
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/8f1f233b-a746-44b0-b84c-eaac6eaeff3d" alt="pngScreenShot" style="display: block;">
+    <span style="display: block; margin: 0; padding: 0; line-height: 0;"><게임 이미지></span>
+    </div><br/>
 
 * 유니티를 배우면서 팀프로젝트를 통해 제작한 3D 게임 포트폴리오 입니다.
 * 제가 담당한 부분은 **굵은 표시**로 표현하였습니다.
